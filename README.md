@@ -22,7 +22,7 @@
 ## Sobre o app e o curso
 
 Este aplicativo foi desenvolvido no Curso da Udemy [Criação de Apps Android e iOS com Flutter] (https://www.udemy.com/curso-completo-flutter-app-android-ios/) por [Daniel Ciolfi] (https://www.udemy.com/user/daniel-henrique-ciolfi/). <br/>
-Nessa aplicação foi desenvolvido uma simples calculadora de IMC, com validação de campos vazios em seus forms/inputs e um botão com a função de reset data.
+Nessa aplicação foi desenvolvido uma simples calculadora de IMC, com validação de campos vazios em seus forms/inputs e um botão com a função de reset forms/inputs/values.
 
 <br/>
 
